@@ -15,8 +15,6 @@ unsigned int Gpio::getNumber() const
 }
 
 
-
-
 Gpo::Gpo(unsigned int number) :
   Gpio(number)
 {
